@@ -1,0 +1,19 @@
+.img {
+  width: 720px;
+  height: 720px;
+}
+
+.btn {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat", serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  top: 630px;
+  left: 360px;
+  cursor: pointer;
+  /* background-color: transparent;
+  border-color: #386570; */
+}
